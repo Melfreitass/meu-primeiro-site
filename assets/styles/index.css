@@ -1,0 +1,20 @@
+/* RESET DO CSS */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1, p { 
+    text-align: center;
+}
+
+header {
+    background-color: rgb(242, 190, 255);
+    color: rgb(68, 6, 104);
+    padding: 25px;
+}
+
+body { 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
