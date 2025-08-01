@@ -6,15 +6,18 @@
 
 h1, p { 
     text-align: center;
+    margin: 9px;
 }
 
 header {
     background-color: rgb(242, 190, 255);
     color: rgb(68, 6, 104);
     padding: 25px;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
 }
 
-body { 
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-style: oblique;
+main {
+    height: 600px;
+    background-color: rgb(230, 223, 231);
 }
