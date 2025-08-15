@@ -140,3 +140,23 @@ footer {
    text-align: center;
    font-size: 17px;
 }
+
+#pagina-testes {
+    background-color: rgb(248, 243, 252);
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 13px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#pagina-testes a{
+    text-decoration: none;
+    transition: all 0.3 ease;
+}
+
+#pagina-testes a:hover {
+    color: rgb(212, 127, 230);
+    transform: translate(3px);
+}
