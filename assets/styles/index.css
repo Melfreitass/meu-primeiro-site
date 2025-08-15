@@ -130,3 +130,13 @@ li:hover {
     color: azure;
     transform: translate(3px);
 }
+
+footer {
+    background-color: rgb(106, 2, 175);
+    color: rgb(239, 213, 255);
+    padding: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-style: oblique;
+   text-align: center;
+   font-size: 17px;
+}
